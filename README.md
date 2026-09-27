@@ -99,3 +99,8 @@ cd app && npm test
 
 - The **Braille beard mark** and the dark design palette are inspired by [refactoria.dev](https://refactoria.dev), used with permission.
 - Legacy WinDev reference material © its original owner; only the migrated, original code is distributed here.
+---
+
+<a href="https://github.com/Gentleman-Programming/gentle-ai">
+  <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
+</a>
